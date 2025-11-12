@@ -7,13 +7,10 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- 추가 페이지 예시(현재 없으면 제외) -->
-  <!--
   <url>
-    <loc>https://ontomotoos.ai/official-network.html</loc>
-    <lastmod>2024-07-30</lastmod>
+    <loc>https://dotnetone.com/ao-consulting-manifesto.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
   </url>
-  -->
 </urlset>
